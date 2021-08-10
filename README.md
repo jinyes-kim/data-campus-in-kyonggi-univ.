@@ -1,4 +1,4 @@
-# 2020 Big Data Campus
+# [2020 Big Data Campus](https://dataonair.or.kr/bigjob/)
 - 국내 중소기업의 해외 시장 수출을 위한 해외 오픈마켓 트렌드 분석 및 마켓 포지셔닝 제안
 - 과학기술정보통신부 장관상
 ---
